@@ -1,0 +1,1000 @@
+---
+added: '2023-12-07 16:23:48.766837'
+thumbnail: https://iiif.lib.ncsu.edu/iiif/technician-basketballpreview-1999_0001/full/150,/0/default.jpg
+title: Technician Basketball Preview, 1999
+user: helinek
+
+---
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://helinek.github.io/2023-iiif-workshop/manifests/catalog/technician-basketballpreview-1999/manifest.json",
+  "@type": "sc:Manifest",
+  "label": "Technician Basketball Preview, 1999",
+  "related": {
+    "@id": "https://d.lib.ncsu.edu/collections/catalog/technician-basketballpreview-1999",
+    "format": "text/html",
+    "label": "HTML page for the resource",
+    "dcterms:modified": "2023-11-11T01:54:11.688Z"
+  },
+  "logo": {
+    "@id": "https://d.lib.ncsu.edu/collections/assets/ncsu-libraries-white-logo-placement-fa371d02703e250a7573c9ff7efda2be0f0ab068729c9d69c4fed1c532dda73b.jpg"
+  },
+  "attribution": "Technician (Raleigh, N.C.) (LH1 .N6 T4), Special Collections Research Center at NC State University Libraries",
+  "license": [
+    "https://d.lib.ncsu.edu/collections/about#rights_and_use"
+  ],
+  "metadata": [
+    {
+      "label": "title",
+      "value": "Technician Basketball Preview, 1999"
+    },
+    {
+      "label": "Creator",
+      "value": "<span><a href=\"https://d.lib.ncsu.edu/collections/catalog?f%5Bnames_facet%5D%5B%5D=Technician+%28Raleigh%2C+N.C.%29\">Technician (Raleigh, N.C.)</a> (Publisher)</span>"
+    },
+    {
+      "label": "Created Date",
+      "value": "1999"
+    },
+    {
+      "label": "URL",
+      "value": "<span><a href=\"https://d.lib.ncsu.edu/collections/catalog/technician-basketballpreview-1999\">https://d.lib.ncsu.edu/collections/catalog/technician-basketballpreview-1999</a></span>"
+    },
+    {
+      "label": "",
+      "value": "<span><a href=\"https://d.lib.ncsu.edu/collections/catalog/technician-basketballpreview-1999?manifest=https%3A%2F%2Fd.lib.ncsu.edu%2Fcollections%2Fcatalog%2Ftechnician-basketballpreview-1999%2Fmanifest.json\">IIIF drag &amp; drop</a> (<a href=\"https://d.lib.ncsu.edu/collections/about-iiif\">About IIIF</a>)</span>"
+    }
+  ],
+  "thumbnail": {
+    "@id": "https://iiif.lib.ncsu.edu/iiif/technician-basketballpreview-1999_0001/full/150,/0/default.jpg",
+    "service": {
+      "@context": "http://iiif.io/api/image/2/context.json",
+      "@id": "https://iiif.lib.ncsu.edu/iiif/technician-basketballpreview-1999",
+      "profile": "http://iiif.io/api/image/2/level2.json"
+    }
+  },
+  "sequences": [
+    {
+      "canvases": [
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://d.lib.ncsu.edu/collections/canvas/technician-basketballpreview-1999_0001",
+          "width": 3584,
+          "height": 4342,
+          "label": "[1]",
+          "seeAlso": [
+            {
+              "@id": "https://ocr.lib.ncsu.edu/ocr/te/technician-basketballpreview-1999_0001/technician-basketballpreview-1999_0001.hocr",
+              "format": "text/vnd.hocr+html",
+              "profile": "https://github.com/kba/hocr-spec/blob/master/hocr-spec.md",
+              "label": "hOCR"
+            },
+            {
+              "@id": "https://ocr.lib.ncsu.edu/ocr/te/technician-basketballpreview-1999_0001/technician-basketballpreview-1999_0001.txt",
+              "format": "text/plain",
+              "label": "plain text OCR"
+            }
+          ],
+          "images": [
+            {
+              "@id": "https://d.lib.ncsu.edu/collections/canvas/technician-basketballpreview-1999_0001/image",
+              "@type": "oa:Annotation",
+              "on": "https://d.lib.ncsu.edu/collections/canvas/technician-basketballpreview-1999_0001",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.lib.ncsu.edu/iiif/technician-basketballpreview-1999_0001/full/1170,/0/default.jpg",
+                "width": 3584,
+                "height": 4342,
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.lib.ncsu.edu/iiif/technician-basketballpreview-1999_0001"
+                },
+                "@type": "dctypes:Image"
+              }
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://ocr.lib.ncsu.edu/ocr/te/technician-basketballpreview-1999_0001/technician-basketballpreview-1999_0001-annotation-list-word.json",
+              "@type": "sc:AnnotationList",
+              "label": "Text of this page (word level)"
+            },
+            {
+              "@id": "https://ocr.lib.ncsu.edu/ocr/te/technician-basketballpreview-1999_0001/technician-basketballpreview-1999_0001-annotation-list-line.json",
+              "@type": "sc:AnnotationList",
+              "label": "Text of this page (line level)"
+            },
+            {
+              "@id": "https://ocr.lib.ncsu.edu/ocr/te/technician-basketballpreview-1999_0001/technician-basketballpreview-1999_0001-annotation-list-paragraph.json",
+              "@type": "sc:AnnotationList",
+              "label": "Text of this page (paragraph level)"
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://d.lib.ncsu.edu/collections/canvas/technician-basketballpreview-1999_0002",
+          "width": 3594,
+          "height": 4339,
+          "label": "[2]",
+          "seeAlso": [
+            {
+              "@id": "https://ocr.lib.ncsu.edu/ocr/te/technician-basketballpreview-1999_0002/technician-basketballpreview-1999_0002.hocr",
+              "format": "text/vnd.hocr+html",
+              "profile": "https://github.com/kba/hocr-spec/blob/master/hocr-spec.md",
+              "label": "hOCR"
+            },
+            {
+              "@id": "https://ocr.lib.ncsu.edu/ocr/te/technician-basketballpreview-1999_0002/technician-basketballpreview-1999_0002.txt",
+              "format": "text/plain",
+              "label": "plain text OCR"
+            }
+          ],
+          "images": [
+            {
+              "@id": "https://d.lib.ncsu.edu/collections/canvas/technician-basketballpreview-1999_0002/image",
+              "@type": "oa:Annotation",
+              "on": "https://d.lib.ncsu.edu/collections/canvas/technician-basketballpreview-1999_0002",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.lib.ncsu.edu/iiif/technician-basketballpreview-1999_0002/full/1170,/0/default.jpg",
+                "width": 3594,
+                "height": 4339,
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.lib.ncsu.edu/iiif/technician-basketballpreview-1999_0002"
+                },
+                "@type": "dctypes:Image"
+              }
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://ocr.lib.ncsu.edu/ocr/te/technician-basketballpreview-1999_0002/technician-basketballpreview-1999_0002-annotation-list-word.json",
+              "@type": "sc:AnnotationList",
+              "label": "Text of this page (word level)"
+            },
+            {
+              "@id": "https://ocr.lib.ncsu.edu/ocr/te/technician-basketballpreview-1999_0002/technician-basketballpreview-1999_0002-annotation-list-line.json",
+              "@type": "sc:AnnotationList",
+              "label": "Text of this page (line level)"
+            },
+            {
+              "@id": "https://ocr.lib.ncsu.edu/ocr/te/technician-basketballpreview-1999_0002/technician-basketballpreview-1999_0002-annotation-list-paragraph.json",
+              "@type": "sc:AnnotationList",
+              "label": "Text of this page (paragraph level)"
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://d.lib.ncsu.edu/collections/canvas/technician-basketballpreview-1999_0003",
+          "width": 3608,
+          "height": 4318,
+          "label": "[3]",
+          "seeAlso": [
+            {
+              "@id": "https://ocr.lib.ncsu.edu/ocr/te/technician-basketballpreview-1999_0003/technician-basketballpreview-1999_0003.hocr",
+              "format": "text/vnd.hocr+html",
+              "profile": "https://github.com/kba/hocr-spec/blob/master/hocr-spec.md",
+              "label": "hOCR"
+            },
+            {
+              "@id": "https://ocr.lib.ncsu.edu/ocr/te/technician-basketballpreview-1999_0003/technician-basketballpreview-1999_0003.txt",
+              "format": "text/plain",
+              "label": "plain text OCR"
+            }
+          ],
+          "images": [
+            {
+              "@id": "https://d.lib.ncsu.edu/collections/canvas/technician-basketballpreview-1999_0003/image",
+              "@type": "oa:Annotation",
+              "on": "https://d.lib.ncsu.edu/collections/canvas/technician-basketballpreview-1999_0003",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.lib.ncsu.edu/iiif/technician-basketballpreview-1999_0003/full/1170,/0/default.jpg",
+                "width": 3608,
+                "height": 4318,
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.lib.ncsu.edu/iiif/technician-basketballpreview-1999_0003"
+                },
+                "@type": "dctypes:Image"
+              }
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://ocr.lib.ncsu.edu/ocr/te/technician-basketballpreview-1999_0003/technician-basketballpreview-1999_0003-annotation-list-word.json",
+              "@type": "sc:AnnotationList",
+              "label": "Text of this page (word level)"
+            },
+            {
+              "@id": "https://ocr.lib.ncsu.edu/ocr/te/technician-basketballpreview-1999_0003/technician-basketballpreview-1999_0003-annotation-list-line.json",
+              "@type": "sc:AnnotationList",
+              "label": "Text of this page (line level)"
+            },
+            {
+              "@id": "https://ocr.lib.ncsu.edu/ocr/te/technician-basketballpreview-1999_0003/technician-basketballpreview-1999_0003-annotation-list-paragraph.json",
+              "@type": "sc:AnnotationList",
+              "label": "Text of this page (paragraph level)"
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://d.lib.ncsu.edu/collections/canvas/technician-basketballpreview-1999_0004",
+          "width": 3446,
+          "height": 4283,
+          "label": "[4]",
+          "seeAlso": [
+            {
+              "@id": "https://ocr.lib.ncsu.edu/ocr/te/technician-basketballpreview-1999_0004/technician-basketballpreview-1999_0004.hocr",
+              "format": "text/vnd.hocr+html",
+              "profile": "https://github.com/kba/hocr-spec/blob/master/hocr-spec.md",
+              "label": "hOCR"
+            },
+            {
+              "@id": "https://ocr.lib.ncsu.edu/ocr/te/technician-basketballpreview-1999_0004/technician-basketballpreview-1999_0004.txt",
+              "format": "text/plain",
+              "label": "plain text OCR"
+            }
+          ],
+          "images": [
+            {
+              "@id": "https://d.lib.ncsu.edu/collections/canvas/technician-basketballpreview-1999_0004/image",
+              "@type": "oa:Annotation",
+              "on": "https://d.lib.ncsu.edu/collections/canvas/technician-basketballpreview-1999_0004",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.lib.ncsu.edu/iiif/technician-basketballpreview-1999_0004/full/1170,/0/default.jpg",
+                "width": 3446,
+                "height": 4283,
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.lib.ncsu.edu/iiif/technician-basketballpreview-1999_0004"
+                },
+                "@type": "dctypes:Image"
+              }
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://ocr.lib.ncsu.edu/ocr/te/technician-basketballpreview-1999_0004/technician-basketballpreview-1999_0004-annotation-list-word.json",
+              "@type": "sc:AnnotationList",
+              "label": "Text of this page (word level)"
+            },
+            {
+              "@id": "https://ocr.lib.ncsu.edu/ocr/te/technician-basketballpreview-1999_0004/technician-basketballpreview-1999_0004-annotation-list-line.json",
+              "@type": "sc:AnnotationList",
+              "label": "Text of this page (line level)"
+            },
+            {
+              "@id": "https://ocr.lib.ncsu.edu/ocr/te/technician-basketballpreview-1999_0004/technician-basketballpreview-1999_0004-annotation-list-paragraph.json",
+              "@type": "sc:AnnotationList",
+              "label": "Text of this page (paragraph level)"
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://d.lib.ncsu.edu/collections/canvas/technician-basketballpreview-1999_0005",
+          "width": 3534,
+          "height": 4294,
+          "label": "[5]",
+          "seeAlso": [
+            {
+              "@id": "https://ocr.lib.ncsu.edu/ocr/te/technician-basketballpreview-1999_0005/technician-basketballpreview-1999_0005.hocr",
+              "format": "text/vnd.hocr+html",
+              "profile": "https://github.com/kba/hocr-spec/blob/master/hocr-spec.md",
+              "label": "hOCR"
+            },
+            {
+              "@id": "https://ocr.lib.ncsu.edu/ocr/te/technician-basketballpreview-1999_0005/technician-basketballpreview-1999_0005.txt",
+              "format": "text/plain",
+              "label": "plain text OCR"
+            }
+          ],
+          "images": [
+            {
+              "@id": "https://d.lib.ncsu.edu/collections/canvas/technician-basketballpreview-1999_0005/image",
+              "@type": "oa:Annotation",
+              "on": "https://d.lib.ncsu.edu/collections/canvas/technician-basketballpreview-1999_0005",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.lib.ncsu.edu/iiif/technician-basketballpreview-1999_0005/full/1170,/0/default.jpg",
+                "width": 3534,
+                "height": 4294,
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.lib.ncsu.edu/iiif/technician-basketballpreview-1999_0005"
+                },
+                "@type": "dctypes:Image"
+              }
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://ocr.lib.ncsu.edu/ocr/te/technician-basketballpreview-1999_0005/technician-basketballpreview-1999_0005-annotation-list-word.json",
+              "@type": "sc:AnnotationList",
+              "label": "Text of this page (word level)"
+            },
+            {
+              "@id": "https://ocr.lib.ncsu.edu/ocr/te/technician-basketballpreview-1999_0005/technician-basketballpreview-1999_0005-annotation-list-line.json",
+              "@type": "sc:AnnotationList",
+              "label": "Text of this page (line level)"
+            },
+            {
+              "@id": "https://ocr.lib.ncsu.edu/ocr/te/technician-basketballpreview-1999_0005/technician-basketballpreview-1999_0005-annotation-list-paragraph.json",
+              "@type": "sc:AnnotationList",
+              "label": "Text of this page (paragraph level)"
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://d.lib.ncsu.edu/collections/canvas/technician-basketballpreview-1999_0006",
+          "width": 3566,
+          "height": 4341,
+          "label": "[6]",
+          "seeAlso": [
+            {
+              "@id": "https://ocr.lib.ncsu.edu/ocr/te/technician-basketballpreview-1999_0006/technician-basketballpreview-1999_0006.hocr",
+              "format": "text/vnd.hocr+html",
+              "profile": "https://github.com/kba/hocr-spec/blob/master/hocr-spec.md",
+              "label": "hOCR"
+            },
+            {
+              "@id": "https://ocr.lib.ncsu.edu/ocr/te/technician-basketballpreview-1999_0006/technician-basketballpreview-1999_0006.txt",
+              "format": "text/plain",
+              "label": "plain text OCR"
+            }
+          ],
+          "images": [
+            {
+              "@id": "https://d.lib.ncsu.edu/collections/canvas/technician-basketballpreview-1999_0006/image",
+              "@type": "oa:Annotation",
+              "on": "https://d.lib.ncsu.edu/collections/canvas/technician-basketballpreview-1999_0006",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.lib.ncsu.edu/iiif/technician-basketballpreview-1999_0006/full/1170,/0/default.jpg",
+                "width": 3566,
+                "height": 4341,
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.lib.ncsu.edu/iiif/technician-basketballpreview-1999_0006"
+                },
+                "@type": "dctypes:Image"
+              }
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://ocr.lib.ncsu.edu/ocr/te/technician-basketballpreview-1999_0006/technician-basketballpreview-1999_0006-annotation-list-word.json",
+              "@type": "sc:AnnotationList",
+              "label": "Text of this page (word level)"
+            },
+            {
+              "@id": "https://ocr.lib.ncsu.edu/ocr/te/technician-basketballpreview-1999_0006/technician-basketballpreview-1999_0006-annotation-list-line.json",
+              "@type": "sc:AnnotationList",
+              "label": "Text of this page (line level)"
+            },
+            {
+              "@id": "https://ocr.lib.ncsu.edu/ocr/te/technician-basketballpreview-1999_0006/technician-basketballpreview-1999_0006-annotation-list-paragraph.json",
+              "@type": "sc:AnnotationList",
+              "label": "Text of this page (paragraph level)"
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://d.lib.ncsu.edu/collections/canvas/technician-basketballpreview-1999_0007",
+          "width": 3535,
+          "height": 4252,
+          "label": "[7]",
+          "seeAlso": [
+            {
+              "@id": "https://ocr.lib.ncsu.edu/ocr/te/technician-basketballpreview-1999_0007/technician-basketballpreview-1999_0007.hocr",
+              "format": "text/vnd.hocr+html",
+              "profile": "https://github.com/kba/hocr-spec/blob/master/hocr-spec.md",
+              "label": "hOCR"
+            },
+            {
+              "@id": "https://ocr.lib.ncsu.edu/ocr/te/technician-basketballpreview-1999_0007/technician-basketballpreview-1999_0007.txt",
+              "format": "text/plain",
+              "label": "plain text OCR"
+            }
+          ],
+          "images": [
+            {
+              "@id": "https://d.lib.ncsu.edu/collections/canvas/technician-basketballpreview-1999_0007/image",
+              "@type": "oa:Annotation",
+              "on": "https://d.lib.ncsu.edu/collections/canvas/technician-basketballpreview-1999_0007",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.lib.ncsu.edu/iiif/technician-basketballpreview-1999_0007/full/1170,/0/default.jpg",
+                "width": 3535,
+                "height": 4252,
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.lib.ncsu.edu/iiif/technician-basketballpreview-1999_0007"
+                },
+                "@type": "dctypes:Image"
+              }
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://ocr.lib.ncsu.edu/ocr/te/technician-basketballpreview-1999_0007/technician-basketballpreview-1999_0007-annotation-list-word.json",
+              "@type": "sc:AnnotationList",
+              "label": "Text of this page (word level)"
+            },
+            {
+              "@id": "https://ocr.lib.ncsu.edu/ocr/te/technician-basketballpreview-1999_0007/technician-basketballpreview-1999_0007-annotation-list-line.json",
+              "@type": "sc:AnnotationList",
+              "label": "Text of this page (line level)"
+            },
+            {
+              "@id": "https://ocr.lib.ncsu.edu/ocr/te/technician-basketballpreview-1999_0007/technician-basketballpreview-1999_0007-annotation-list-paragraph.json",
+              "@type": "sc:AnnotationList",
+              "label": "Text of this page (paragraph level)"
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://d.lib.ncsu.edu/collections/canvas/technician-basketballpreview-1999_0008",
+          "width": 3530,
+          "height": 4348,
+          "label": "[8]",
+          "seeAlso": [
+            {
+              "@id": "https://ocr.lib.ncsu.edu/ocr/te/technician-basketballpreview-1999_0008/technician-basketballpreview-1999_0008.hocr",
+              "format": "text/vnd.hocr+html",
+              "profile": "https://github.com/kba/hocr-spec/blob/master/hocr-spec.md",
+              "label": "hOCR"
+            },
+            {
+              "@id": "https://ocr.lib.ncsu.edu/ocr/te/technician-basketballpreview-1999_0008/technician-basketballpreview-1999_0008.txt",
+              "format": "text/plain",
+              "label": "plain text OCR"
+            }
+          ],
+          "images": [
+            {
+              "@id": "https://d.lib.ncsu.edu/collections/canvas/technician-basketballpreview-1999_0008/image",
+              "@type": "oa:Annotation",
+              "on": "https://d.lib.ncsu.edu/collections/canvas/technician-basketballpreview-1999_0008",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.lib.ncsu.edu/iiif/technician-basketballpreview-1999_0008/full/1170,/0/default.jpg",
+                "width": 3530,
+                "height": 4348,
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.lib.ncsu.edu/iiif/technician-basketballpreview-1999_0008"
+                },
+                "@type": "dctypes:Image"
+              }
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://ocr.lib.ncsu.edu/ocr/te/technician-basketballpreview-1999_0008/technician-basketballpreview-1999_0008-annotation-list-word.json",
+              "@type": "sc:AnnotationList",
+              "label": "Text of this page (word level)"
+            },
+            {
+              "@id": "https://ocr.lib.ncsu.edu/ocr/te/technician-basketballpreview-1999_0008/technician-basketballpreview-1999_0008-annotation-list-line.json",
+              "@type": "sc:AnnotationList",
+              "label": "Text of this page (line level)"
+            },
+            {
+              "@id": "https://ocr.lib.ncsu.edu/ocr/te/technician-basketballpreview-1999_0008/technician-basketballpreview-1999_0008-annotation-list-paragraph.json",
+              "@type": "sc:AnnotationList",
+              "label": "Text of this page (paragraph level)"
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://d.lib.ncsu.edu/collections/canvas/technician-basketballpreview-1999_0009",
+          "width": 3493,
+          "height": 4252,
+          "label": "[9]",
+          "seeAlso": [
+            {
+              "@id": "https://ocr.lib.ncsu.edu/ocr/te/technician-basketballpreview-1999_0009/technician-basketballpreview-1999_0009.hocr",
+              "format": "text/vnd.hocr+html",
+              "profile": "https://github.com/kba/hocr-spec/blob/master/hocr-spec.md",
+              "label": "hOCR"
+            },
+            {
+              "@id": "https://ocr.lib.ncsu.edu/ocr/te/technician-basketballpreview-1999_0009/technician-basketballpreview-1999_0009.txt",
+              "format": "text/plain",
+              "label": "plain text OCR"
+            }
+          ],
+          "images": [
+            {
+              "@id": "https://d.lib.ncsu.edu/collections/canvas/technician-basketballpreview-1999_0009/image",
+              "@type": "oa:Annotation",
+              "on": "https://d.lib.ncsu.edu/collections/canvas/technician-basketballpreview-1999_0009",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.lib.ncsu.edu/iiif/technician-basketballpreview-1999_0009/full/1170,/0/default.jpg",
+                "width": 3493,
+                "height": 4252,
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.lib.ncsu.edu/iiif/technician-basketballpreview-1999_0009"
+                },
+                "@type": "dctypes:Image"
+              }
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://ocr.lib.ncsu.edu/ocr/te/technician-basketballpreview-1999_0009/technician-basketballpreview-1999_0009-annotation-list-word.json",
+              "@type": "sc:AnnotationList",
+              "label": "Text of this page (word level)"
+            },
+            {
+              "@id": "https://ocr.lib.ncsu.edu/ocr/te/technician-basketballpreview-1999_0009/technician-basketballpreview-1999_0009-annotation-list-line.json",
+              "@type": "sc:AnnotationList",
+              "label": "Text of this page (line level)"
+            },
+            {
+              "@id": "https://ocr.lib.ncsu.edu/ocr/te/technician-basketballpreview-1999_0009/technician-basketballpreview-1999_0009-annotation-list-paragraph.json",
+              "@type": "sc:AnnotationList",
+              "label": "Text of this page (paragraph level)"
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://d.lib.ncsu.edu/collections/canvas/technician-basketballpreview-1999_0010",
+          "width": 3535,
+          "height": 4341,
+          "label": "[10]",
+          "seeAlso": [
+            {
+              "@id": "https://ocr.lib.ncsu.edu/ocr/te/technician-basketballpreview-1999_0010/technician-basketballpreview-1999_0010.hocr",
+              "format": "text/vnd.hocr+html",
+              "profile": "https://github.com/kba/hocr-spec/blob/master/hocr-spec.md",
+              "label": "hOCR"
+            },
+            {
+              "@id": "https://ocr.lib.ncsu.edu/ocr/te/technician-basketballpreview-1999_0010/technician-basketballpreview-1999_0010.txt",
+              "format": "text/plain",
+              "label": "plain text OCR"
+            }
+          ],
+          "images": [
+            {
+              "@id": "https://d.lib.ncsu.edu/collections/canvas/technician-basketballpreview-1999_0010/image",
+              "@type": "oa:Annotation",
+              "on": "https://d.lib.ncsu.edu/collections/canvas/technician-basketballpreview-1999_0010",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.lib.ncsu.edu/iiif/technician-basketballpreview-1999_0010/full/1170,/0/default.jpg",
+                "width": 3535,
+                "height": 4341,
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.lib.ncsu.edu/iiif/technician-basketballpreview-1999_0010"
+                },
+                "@type": "dctypes:Image"
+              }
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://ocr.lib.ncsu.edu/ocr/te/technician-basketballpreview-1999_0010/technician-basketballpreview-1999_0010-annotation-list-word.json",
+              "@type": "sc:AnnotationList",
+              "label": "Text of this page (word level)"
+            },
+            {
+              "@id": "https://ocr.lib.ncsu.edu/ocr/te/technician-basketballpreview-1999_0010/technician-basketballpreview-1999_0010-annotation-list-line.json",
+              "@type": "sc:AnnotationList",
+              "label": "Text of this page (line level)"
+            },
+            {
+              "@id": "https://ocr.lib.ncsu.edu/ocr/te/technician-basketballpreview-1999_0010/technician-basketballpreview-1999_0010-annotation-list-paragraph.json",
+              "@type": "sc:AnnotationList",
+              "label": "Text of this page (paragraph level)"
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://d.lib.ncsu.edu/collections/canvas/technician-basketballpreview-1999_0011",
+          "width": 3511,
+          "height": 4294,
+          "label": "[11]",
+          "seeAlso": [
+            {
+              "@id": "https://ocr.lib.ncsu.edu/ocr/te/technician-basketballpreview-1999_0011/technician-basketballpreview-1999_0011.hocr",
+              "format": "text/vnd.hocr+html",
+              "profile": "https://github.com/kba/hocr-spec/blob/master/hocr-spec.md",
+              "label": "hOCR"
+            },
+            {
+              "@id": "https://ocr.lib.ncsu.edu/ocr/te/technician-basketballpreview-1999_0011/technician-basketballpreview-1999_0011.txt",
+              "format": "text/plain",
+              "label": "plain text OCR"
+            }
+          ],
+          "images": [
+            {
+              "@id": "https://d.lib.ncsu.edu/collections/canvas/technician-basketballpreview-1999_0011/image",
+              "@type": "oa:Annotation",
+              "on": "https://d.lib.ncsu.edu/collections/canvas/technician-basketballpreview-1999_0011",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.lib.ncsu.edu/iiif/technician-basketballpreview-1999_0011/full/1170,/0/default.jpg",
+                "width": 3511,
+                "height": 4294,
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.lib.ncsu.edu/iiif/technician-basketballpreview-1999_0011"
+                },
+                "@type": "dctypes:Image"
+              }
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://ocr.lib.ncsu.edu/ocr/te/technician-basketballpreview-1999_0011/technician-basketballpreview-1999_0011-annotation-list-word.json",
+              "@type": "sc:AnnotationList",
+              "label": "Text of this page (word level)"
+            },
+            {
+              "@id": "https://ocr.lib.ncsu.edu/ocr/te/technician-basketballpreview-1999_0011/technician-basketballpreview-1999_0011-annotation-list-line.json",
+              "@type": "sc:AnnotationList",
+              "label": "Text of this page (line level)"
+            },
+            {
+              "@id": "https://ocr.lib.ncsu.edu/ocr/te/technician-basketballpreview-1999_0011/technician-basketballpreview-1999_0011-annotation-list-paragraph.json",
+              "@type": "sc:AnnotationList",
+              "label": "Text of this page (paragraph level)"
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://d.lib.ncsu.edu/collections/canvas/technician-basketballpreview-1999_0012",
+          "width": 3602,
+          "height": 4283,
+          "label": "[12]",
+          "seeAlso": [
+            {
+              "@id": "https://ocr.lib.ncsu.edu/ocr/te/technician-basketballpreview-1999_0012/technician-basketballpreview-1999_0012.hocr",
+              "format": "text/vnd.hocr+html",
+              "profile": "https://github.com/kba/hocr-spec/blob/master/hocr-spec.md",
+              "label": "hOCR"
+            },
+            {
+              "@id": "https://ocr.lib.ncsu.edu/ocr/te/technician-basketballpreview-1999_0012/technician-basketballpreview-1999_0012.txt",
+              "format": "text/plain",
+              "label": "plain text OCR"
+            }
+          ],
+          "images": [
+            {
+              "@id": "https://d.lib.ncsu.edu/collections/canvas/technician-basketballpreview-1999_0012/image",
+              "@type": "oa:Annotation",
+              "on": "https://d.lib.ncsu.edu/collections/canvas/technician-basketballpreview-1999_0012",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.lib.ncsu.edu/iiif/technician-basketballpreview-1999_0012/full/1170,/0/default.jpg",
+                "width": 3602,
+                "height": 4283,
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.lib.ncsu.edu/iiif/technician-basketballpreview-1999_0012"
+                },
+                "@type": "dctypes:Image"
+              }
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://ocr.lib.ncsu.edu/ocr/te/technician-basketballpreview-1999_0012/technician-basketballpreview-1999_0012-annotation-list-word.json",
+              "@type": "sc:AnnotationList",
+              "label": "Text of this page (word level)"
+            },
+            {
+              "@id": "https://ocr.lib.ncsu.edu/ocr/te/technician-basketballpreview-1999_0012/technician-basketballpreview-1999_0012-annotation-list-line.json",
+              "@type": "sc:AnnotationList",
+              "label": "Text of this page (line level)"
+            },
+            {
+              "@id": "https://ocr.lib.ncsu.edu/ocr/te/technician-basketballpreview-1999_0012/technician-basketballpreview-1999_0012-annotation-list-paragraph.json",
+              "@type": "sc:AnnotationList",
+              "label": "Text of this page (paragraph level)"
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://d.lib.ncsu.edu/collections/canvas/technician-basketballpreview-1999_0013",
+          "width": 3453,
+          "height": 4318,
+          "label": "[13]",
+          "seeAlso": [
+            {
+              "@id": "https://ocr.lib.ncsu.edu/ocr/te/technician-basketballpreview-1999_0013/technician-basketballpreview-1999_0013.hocr",
+              "format": "text/vnd.hocr+html",
+              "profile": "https://github.com/kba/hocr-spec/blob/master/hocr-spec.md",
+              "label": "hOCR"
+            },
+            {
+              "@id": "https://ocr.lib.ncsu.edu/ocr/te/technician-basketballpreview-1999_0013/technician-basketballpreview-1999_0013.txt",
+              "format": "text/plain",
+              "label": "plain text OCR"
+            }
+          ],
+          "images": [
+            {
+              "@id": "https://d.lib.ncsu.edu/collections/canvas/technician-basketballpreview-1999_0013/image",
+              "@type": "oa:Annotation",
+              "on": "https://d.lib.ncsu.edu/collections/canvas/technician-basketballpreview-1999_0013",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.lib.ncsu.edu/iiif/technician-basketballpreview-1999_0013/full/1170,/0/default.jpg",
+                "width": 3453,
+                "height": 4318,
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.lib.ncsu.edu/iiif/technician-basketballpreview-1999_0013"
+                },
+                "@type": "dctypes:Image"
+              }
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://ocr.lib.ncsu.edu/ocr/te/technician-basketballpreview-1999_0013/technician-basketballpreview-1999_0013-annotation-list-word.json",
+              "@type": "sc:AnnotationList",
+              "label": "Text of this page (word level)"
+            },
+            {
+              "@id": "https://ocr.lib.ncsu.edu/ocr/te/technician-basketballpreview-1999_0013/technician-basketballpreview-1999_0013-annotation-list-line.json",
+              "@type": "sc:AnnotationList",
+              "label": "Text of this page (line level)"
+            },
+            {
+              "@id": "https://ocr.lib.ncsu.edu/ocr/te/technician-basketballpreview-1999_0013/technician-basketballpreview-1999_0013-annotation-list-paragraph.json",
+              "@type": "sc:AnnotationList",
+              "label": "Text of this page (paragraph level)"
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://d.lib.ncsu.edu/collections/canvas/technician-basketballpreview-1999_0014",
+          "width": 3462,
+          "height": 4339,
+          "label": "[14]",
+          "seeAlso": [
+            {
+              "@id": "https://ocr.lib.ncsu.edu/ocr/te/technician-basketballpreview-1999_0014/technician-basketballpreview-1999_0014.hocr",
+              "format": "text/vnd.hocr+html",
+              "profile": "https://github.com/kba/hocr-spec/blob/master/hocr-spec.md",
+              "label": "hOCR"
+            },
+            {
+              "@id": "https://ocr.lib.ncsu.edu/ocr/te/technician-basketballpreview-1999_0014/technician-basketballpreview-1999_0014.txt",
+              "format": "text/plain",
+              "label": "plain text OCR"
+            }
+          ],
+          "images": [
+            {
+              "@id": "https://d.lib.ncsu.edu/collections/canvas/technician-basketballpreview-1999_0014/image",
+              "@type": "oa:Annotation",
+              "on": "https://d.lib.ncsu.edu/collections/canvas/technician-basketballpreview-1999_0014",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.lib.ncsu.edu/iiif/technician-basketballpreview-1999_0014/full/1170,/0/default.jpg",
+                "width": 3462,
+                "height": 4339,
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.lib.ncsu.edu/iiif/technician-basketballpreview-1999_0014"
+                },
+                "@type": "dctypes:Image"
+              }
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://ocr.lib.ncsu.edu/ocr/te/technician-basketballpreview-1999_0014/technician-basketballpreview-1999_0014-annotation-list-word.json",
+              "@type": "sc:AnnotationList",
+              "label": "Text of this page (word level)"
+            },
+            {
+              "@id": "https://ocr.lib.ncsu.edu/ocr/te/technician-basketballpreview-1999_0014/technician-basketballpreview-1999_0014-annotation-list-line.json",
+              "@type": "sc:AnnotationList",
+              "label": "Text of this page (line level)"
+            },
+            {
+              "@id": "https://ocr.lib.ncsu.edu/ocr/te/technician-basketballpreview-1999_0014/technician-basketballpreview-1999_0014-annotation-list-paragraph.json",
+              "@type": "sc:AnnotationList",
+              "label": "Text of this page (paragraph level)"
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://d.lib.ncsu.edu/collections/canvas/technician-basketballpreview-1999_0015",
+          "width": 3541,
+          "height": 4348,
+          "label": "[15]",
+          "seeAlso": [
+            {
+              "@id": "https://ocr.lib.ncsu.edu/ocr/te/technician-basketballpreview-1999_0015/technician-basketballpreview-1999_0015.hocr",
+              "format": "text/vnd.hocr+html",
+              "profile": "https://github.com/kba/hocr-spec/blob/master/hocr-spec.md",
+              "label": "hOCR"
+            },
+            {
+              "@id": "https://ocr.lib.ncsu.edu/ocr/te/technician-basketballpreview-1999_0015/technician-basketballpreview-1999_0015.txt",
+              "format": "text/plain",
+              "label": "plain text OCR"
+            }
+          ],
+          "images": [
+            {
+              "@id": "https://d.lib.ncsu.edu/collections/canvas/technician-basketballpreview-1999_0015/image",
+              "@type": "oa:Annotation",
+              "on": "https://d.lib.ncsu.edu/collections/canvas/technician-basketballpreview-1999_0015",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.lib.ncsu.edu/iiif/technician-basketballpreview-1999_0015/full/1170,/0/default.jpg",
+                "width": 3541,
+                "height": 4348,
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.lib.ncsu.edu/iiif/technician-basketballpreview-1999_0015"
+                },
+                "@type": "dctypes:Image"
+              }
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://ocr.lib.ncsu.edu/ocr/te/technician-basketballpreview-1999_0015/technician-basketballpreview-1999_0015-annotation-list-word.json",
+              "@type": "sc:AnnotationList",
+              "label": "Text of this page (word level)"
+            },
+            {
+              "@id": "https://ocr.lib.ncsu.edu/ocr/te/technician-basketballpreview-1999_0015/technician-basketballpreview-1999_0015-annotation-list-line.json",
+              "@type": "sc:AnnotationList",
+              "label": "Text of this page (line level)"
+            },
+            {
+              "@id": "https://ocr.lib.ncsu.edu/ocr/te/technician-basketballpreview-1999_0015/technician-basketballpreview-1999_0015-annotation-list-paragraph.json",
+              "@type": "sc:AnnotationList",
+              "label": "Text of this page (paragraph level)"
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://d.lib.ncsu.edu/collections/canvas/technician-basketballpreview-1999_0016",
+          "width": 3510,
+          "height": 4342,
+          "label": "[16]",
+          "seeAlso": [
+            {
+              "@id": "https://ocr.lib.ncsu.edu/ocr/te/technician-basketballpreview-1999_0016/technician-basketballpreview-1999_0016.hocr",
+              "format": "text/vnd.hocr+html",
+              "profile": "https://github.com/kba/hocr-spec/blob/master/hocr-spec.md",
+              "label": "hOCR"
+            },
+            {
+              "@id": "https://ocr.lib.ncsu.edu/ocr/te/technician-basketballpreview-1999_0016/technician-basketballpreview-1999_0016.txt",
+              "format": "text/plain",
+              "label": "plain text OCR"
+            }
+          ],
+          "images": [
+            {
+              "@id": "https://d.lib.ncsu.edu/collections/canvas/technician-basketballpreview-1999_0016/image",
+              "@type": "oa:Annotation",
+              "on": "https://d.lib.ncsu.edu/collections/canvas/technician-basketballpreview-1999_0016",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.lib.ncsu.edu/iiif/technician-basketballpreview-1999_0016/full/1170,/0/default.jpg",
+                "width": 3510,
+                "height": 4342,
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.lib.ncsu.edu/iiif/technician-basketballpreview-1999_0016"
+                },
+                "@type": "dctypes:Image"
+              }
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://ocr.lib.ncsu.edu/ocr/te/technician-basketballpreview-1999_0016/technician-basketballpreview-1999_0016-annotation-list-word.json",
+              "@type": "sc:AnnotationList",
+              "label": "Text of this page (word level)"
+            },
+            {
+              "@id": "https://ocr.lib.ncsu.edu/ocr/te/technician-basketballpreview-1999_0016/technician-basketballpreview-1999_0016-annotation-list-line.json",
+              "@type": "sc:AnnotationList",
+              "label": "Text of this page (line level)"
+            },
+            {
+              "@id": "https://ocr.lib.ncsu.edu/ocr/te/technician-basketballpreview-1999_0016/technician-basketballpreview-1999_0016-annotation-list-paragraph.json",
+              "@type": "sc:AnnotationList",
+              "label": "Text of this page (paragraph level)"
+            }
+          ]
+        }
+      ],
+      "@type": "sc:Sequence",
+      "viewingHint": "paged",
+      "rendering": [
+        {
+          "@id": "https://ocr.lib.ncsu.edu/ocr/te/technician-basketballpreview-1999/technician-basketballpreview-1999.pdf",
+          "label": "Download as PDF, 4.09 MB",
+          "format": "application/pdf"
+        },
+        {
+          "@id": "https://ocr.lib.ncsu.edu/ocr/te/technician-basketballpreview-1999/technician-basketballpreview-1999.txt",
+          "label": "Download OCR Text",
+          "format": "plain/text"
+        }
+      ]
+    }
+  ],
+  "service": [
+    {
+      "@context": "http://iiif.io/api/search/0/context.json",
+      "@id": "https://ocr.lib.ncsu.edu/search/technician-basketballpreview-1999",
+      "profile": "http://iiif.io/api/search/0/search",
+      "label": "Search within this thing",
+      "service": {
+        "@id": "https://ocr.lib.ncsu.edu/suggest/technician-basketballpreview-1999",
+        "profile": "http://iiif.io/api/search/0/autocomplete",
+        "label": "Get suggested words"
+      }
+    }
+  ],
+  "seeAlso": [
+    {
+      "@id": "https://d.lib.ncsu.edu/collections/catalog/technician-basketballpreview-1999.dcxml",
+      "format": "text/xml",
+      "label": "Dublin Core XML"
+    },
+    {
+      "@id": "https://d.lib.ncsu.edu/collections/catalog/technician-basketballpreview-1999/schemaorg.json",
+      "format": "application/ld+json",
+      "profile": "https://schema.org",
+      "label": "Schema.org metadata as JSON-LD"
+    }
+  ],
+  "dcterms:modified": "2023-11-11T01:54:11.000Z",
+  "dcterms:created": "2015-12-22T20:16:57.000Z"
+}
