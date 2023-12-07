@@ -1,0 +1,38 @@
+---
+canvas: "https://helinek.github.io/2023-iiif-workshop/img/derivatives/iiif/plant/canvas/plant-1"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "leaf",
+            "purpose": "commenting",
+            "creator": {
+                "id": "helinek",
+                "name": "helinek"
+            },
+            "created": "2023-12-07T16:51:32.852Z",
+            "modified": "2023-12-07T16:51:33.274Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://helinek.github.io/2023-iiif-workshop/img/derivatives/iiif/plant/manifest.json",
+                "type": "Manifest"
+            },
+            "id": "https://helinek.github.io/2023-iiif-workshop/img/derivatives/iiif/plant/canvas/plant-1",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=103.0376968383789,91.33963012695312,359.52831268310547,419.7735900878906"
+        }
+    },
+    "id": "00fc58b0-b7de-4cec-9c71-f6c7aabb0243.json",
+    "motivation": "commenting"
+}
