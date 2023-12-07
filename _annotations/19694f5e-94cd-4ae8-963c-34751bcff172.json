@@ -9505,31 +9505,30 @@ order: 1
             "type": "Feature"
         },
         {
-            "type": "TextualBody",
-            "value": "It's a name",
-            "purpose": "commenting",
+            "created": "2023-12-07T16:29:50.649Z",
             "creator": {
                 "id": "helinek",
                 "name": "helinek"
             },
-            "created": "2023-12-07T16:29:50.649Z",
-            "modified": "2023-12-07T16:30:05.487Z"
+            "modified": "2023-12-07T16:30:05.487Z",
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "It's a name"
         }
     ],
     "id": "19694f5e-94cd-4ae8-963c-34751bcff172.json",
     "motivation": "commenting",
     "target": {
         "selector": {
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "type": "FragmentSelector",
-            "value": "xywh=323.37738037109375,436.62896728515625,556.701904296875,229.23016357421875"
+            "value": "<svg><polygon points=\"323.37738037109375,436.62896728515625 601.7283325195312,436.62896728515625 880.0792846679688,436.62896728515625 880.0792846679688,551.2440490722656 880.0792846679688,665.859130859375 601.7283325195312,665.859130859375 323.37738037109375,665.859130859375 323.37738037109375,551.2440490722656\"></polygon></svg>",
+            "type": "SvgSelector"
         },
         "source": {
+            "id": "https://d.lib.ncsu.edu/collections/canvas/technician-basketballpreview-1999_0002",
             "partOf": {
                 "id": "https://helinek.github.io/2023-iiif-workshop/manifests/catalog/technician-basketballpreview-1999/manifest.json",
                 "type": "Manifest"
             },
-            "id": "https://d.lib.ncsu.edu/collections/canvas/technician-basketballpreview-1999_0002",
             "type": "Canvas"
         }
     },
