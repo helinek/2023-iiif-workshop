@@ -4,35 +4,36 @@ order: 1
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "Kay Yow",
-            "purpose": "commenting",
-            "creator": {
-                "id": "helinek",
-                "name": "helinek"
-            },
             "created": "2023-12-07T16:25:56.967Z",
-            "modified": "2023-12-07T16:26:00.177Z"
-        },
-        {
-            "type": "TextualBody",
-            "value": "name",
-            "purpose": "tagging",
             "creator": {
                 "id": "helinek",
                 "name": "helinek"
             },
-            "created": "2023-12-07T16:26:08.673Z",
-            "modified": "2023-12-07T16:26:13.846Z"
+            "modified": "2023-12-07T16:26:00.177Z",
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "Kay Yow"
         },
         {
-            "purpose": "geotagging",
-            "type": "Feature",
+            "created": "2023-12-07T16:26:08.673Z",
+            "creator": {
+                "id": "helinek",
+                "name": "helinek"
+            },
+            "modified": "2023-12-07T16:26:13.846Z",
+            "purpose": "tagging",
+            "type": "TextualBody",
+            "value": "name"
+        },
+        {
+            "created": "2023-12-07T16:26:50.795Z",
+            "creator": {
+                "id": "helinek",
+                "name": "helinek"
+            },
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -9496,17 +9497,33 @@ order: 1
                             52.4637462
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
+            "purpose": "geotagging",
             "source": "https://www.openstreetmap.org/relation/2456294",
+            "type": "Feature"
+        },
+        {
+            "type": "TextualBody",
+            "value": "It's a name",
+            "purpose": "commenting",
             "creator": {
                 "id": "helinek",
                 "name": "helinek"
             },
-            "created": "2023-12-07T16:26:50.795Z"
+            "created": "2023-12-07T16:29:50.649Z",
+            "modified": "2023-12-07T16:30:05.487Z"
         }
     ],
+    "id": "19694f5e-94cd-4ae8-963c-34751bcff172.json",
+    "motivation": "commenting",
     "target": {
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=323.37738037109375,436.62896728515625,556.701904296875,229.23016357421875"
+        },
         "source": {
             "partOf": {
                 "id": "https://helinek.github.io/2023-iiif-workshop/manifests/catalog/technician-basketballpreview-1999/manifest.json",
@@ -9514,13 +9531,7 @@ order: 1
             },
             "id": "https://d.lib.ncsu.edu/collections/canvas/technician-basketballpreview-1999_0002",
             "type": "Canvas"
-        },
-        "selector": {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=323.37738037109375,436.62896728515625,556.701904296875,229.23016357421875"
         }
     },
-    "id": "19694f5e-94cd-4ae8-963c-34751bcff172.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
