@@ -1,0 +1,37 @@
+---
+canvas: "https://d.lib.ncsu.edu/collections/canvas/technician-basketballpreview-1999_0002"
+order: 2
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Big O",
+            "purpose": "commenting",
+            "creator": {
+                "id": "helinek",
+                "name": "helinek"
+            },
+            "created": "2023-12-07T16:31:33.681Z",
+            "modified": "2023-12-07T16:31:35.831Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://helinek.github.io/2023-iiif-workshop/manifests/catalog/technician-basketballpreview-1999/manifest.json",
+                "type": "Manifest"
+            },
+            "id": "https://d.lib.ncsu.edu/collections/canvas/technician-basketballpreview-1999_0002",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><ellipse cx=\"934.657958984375\" cy=\"1058.8251953125\" rx=\"76.41009521484375\" ry=\"77.7745361328125\"></ellipse></svg>"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "5a4d4e31-b80b-4879-aa51-a2761e5ec03a.json",
+    "motivation": "commenting"
+}
