@@ -9519,17 +9519,17 @@ order: 1
     "id": "19694f5e-94cd-4ae8-963c-34751bcff172.json",
     "motivation": "commenting",
     "target": {
-        "selector": {
-            "value": "<svg><polygon points=\"323.37738037109375,436.62896728515625 601.7283325195312,436.62896728515625 880.0792846679688,436.62896728515625 880.0792846679688,551.2440490722656 880.0792846679688,665.859130859375 601.7283325195312,665.859130859375 323.37738037109375,665.859130859375 323.37738037109375,551.2440490722656\"></polygon></svg>",
-            "type": "SvgSelector"
-        },
         "source": {
-            "id": "https://d.lib.ncsu.edu/collections/canvas/technician-basketballpreview-1999_0002",
             "partOf": {
                 "id": "https://helinek.github.io/2023-iiif-workshop/manifests/catalog/technician-basketballpreview-1999/manifest.json",
                 "type": "Manifest"
             },
+            "id": "https://d.lib.ncsu.edu/collections/canvas/technician-basketballpreview-1999_0002",
             "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"386.1,443.5 601.7,436.6 814.6,484.4 880.1,551.2 817.3,615.4 604.5,631.7 397.1,612.6 378,566.3\"></polygon></svg>"
         }
     },
     "type": "Annotation"
