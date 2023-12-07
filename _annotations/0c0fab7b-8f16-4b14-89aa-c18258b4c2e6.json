@@ -1,0 +1,38 @@
+---
+canvas: "https://helinek.github.io/2023-iiif-workshop/img/derivatives/iiif/prague/canvas/prague-1"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "cross",
+            "purpose": "commenting",
+            "creator": {
+                "id": "helinek",
+                "name": "helinek"
+            },
+            "created": "2023-12-07T16:57:39.522Z",
+            "modified": "2023-12-07T16:57:40.161Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://helinek.github.io/2023-iiif-workshop/img/derivatives/iiif/prague/manifest.json",
+                "type": "Manifest"
+            },
+            "id": "https://helinek.github.io/2023-iiif-workshop/img/derivatives/iiif/prague/canvas/prague-1",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1561.1773681640625,120.09056854248047,126.2490234375,172.43775177001953"
+        }
+    },
+    "id": "0c0fab7b-8f16-4b14-89aa-c18258b4c2e6.json",
+    "motivation": "commenting"
+}
